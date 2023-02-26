@@ -142,7 +142,6 @@ class Logsnag extends Module
     $helper->fields_value['LOGSNAG_API_KEY'] = Tools::getValue('LOGSNAG_API_KEY', Configuration::get('LOGSNAG_API_KEY'));
     $helper->fields_value['LOGSNAG_PROJECT_NAME'] = Tools::getValue('LOGSNAG_PROJECT_NAME', Configuration::get('LOGSNAG_PROJECT_NAME'));
     $helper->fields_value['LOGSNAG_CHANNEL_NAME'] = Tools::getValue('LOGSNAG_CHANNEL_NAME', Configuration::get('LOGSNAG_CHANNEL_NAME'));
-    $helper->fields_value['LOGSNAG_NEWUSER'] = Tools::getValue('LOGSNAG_NEWUSER', Configuration::get('LOGSNAG_NEWUSER'));
     $helper->fields_value['LOGSNAG_NEWORDER'] = Tools::getValue('LOGSNAG_NEWORDER', Configuration::get('LOGSNAG_NEWORDER'));
 
 
