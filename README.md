@@ -1,7 +1,13 @@
 
 # Unofficial Logsnag Prestashop Module 
 
-A simple module to connect Logsnag with prestashop. Currently it only has one event, Notify when new order is placed on site.
+This is a simple module that connects Logsnag with PrestaShop. Currently, it only has one event: to notify when a new order is placed on the site
+
+## Installation
+
+Simply download the ZIP file from the repository and upload it to the PrestaShop module installer.
+
+![App Screenshot](https://raw.githubusercontent.com/muzammilkhattri/logsnag_module/main/installation.png)
 
 
 ## Screenshots
